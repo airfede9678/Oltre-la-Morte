@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.OltreLaMorte" parent="Theme.AppCompat.Light.NoActionBar"/>
+</resources>
